@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" role="img" aria-label="Retreat92">
+  <g fill="none" fill-rule="evenodd">
+    <text x="450" y="142" text-anchor="middle" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="128" font-weight="700" letter-spacing="-6">Retreat<tspan fill="#55bfe0">92</tspan></text>
+    <path d="M74 174 C165 131 248 218 351 174 S548 131 650 174 793 196 836 158" stroke="#45c3cf" stroke-width="14" stroke-linecap="round"/>
+    <path d="M92 198 C184 157 267 235 365 198 S554 157 651 198 771 217 817 186" stroke="#5aa8dc" stroke-width="9" stroke-linecap="round"/>
+    <path d="M137 222 C223 190 302 249 390 222 S557 190 644 222 741 235 783 214" stroke="#f3dfbd" stroke-width="7" stroke-linecap="round"/>
+    <text x="450" y="252" text-anchor="middle" fill="#dbe7f6" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="7">WESTWARD HO! · NORTH DEVON</text>
+  </g>
+</svg>
