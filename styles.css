@@ -24,3 +24,18 @@ body{background:#f6fbfe}.brand{width:250px}.brand img{height:64px;object-fit:con
 /* Footer logo contrast refinement */
 .footer-brand img{max-width:300px;width:100%;height:auto;object-fit:contain;object-position:left center;filter:none;margin:0 0 18px}
 @media(max-width:700px){.footer-brand img{max-width:250px}}
+
+/* Retreat92 fixed header — stays visible while scrolling */
+.site-header{
+  position:fixed !important;
+  top:0;
+  left:0;
+  right:0;
+  width:100%;
+  z-index:1000;
+}
+body{padding-top:82px;}
+.main-nav.open{z-index:1001;}
+@media(max-width:700px){
+  body{padding-top:72px;}
+}
